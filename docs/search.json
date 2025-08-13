@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "Hi there! 👋",
+    "text": "Hi there! 👋\n\n\nIn this presentation, I’ll provide an overview of our group’s progress, outline our objectives, and walk through the schedule for the upcoming semester.\n\nWe’ll explore the following topics:\n\nMembers\nAttendance\nOur Objectives\nOur Schedule\n\n\n\n\n\n\n\n\n\n(Artwork by Primer)"
+  },
+  {
+    "objectID": "index.html#members",
+    "href": "index.html#members",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "Members",
+    "text": "Members\n\n\nOctober 9, 2024\n(First Meeting)\nTotal members: 24\nPresentations: 1\n\nFebruary 19, 2025\nTotal members: 25\nPresentations: 7\n\n\nAugust 13, 2025\nTotal members: 35 (+40%)\nPresentations: 17"
+  },
+  {
+    "objectID": "index.html#attendance",
+    "href": "index.html#attendance",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "Attendance",
+    "text": "Attendance\n1st Meeting (October 9, 2024): 13/24 (~54.17%)\n2nd Meeting (November 13, 2024): 11/25 (44.00%)\n3rd Meeting (December 11, 2024): 9/25 (36.00%)\n4th Meeting (February 19, 2025): 11/25 (44.00%)\n5th Meeting (March 12, 2025): 15/30 (50.00%)\n6th Meeting (April 16, 2025): 12/32 (37.50%)\n7th Meeting (May 21, 2025): 10/34 (~29.41%)\n8th Meeting (June 18, 2025): 9/35 (~25.71%)"
+  },
+  {
+    "objectID": "index.html#main-reference",
+    "href": "index.html#main-reference",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "Main Reference",
+    "text": "Main Reference\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Reproduced from Railsback & Grimm (2019))"
+  },
+  {
+    "objectID": "index.html#our-objectives",
+    "href": "index.html#our-objectives",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "Our Objectives",
+    "text": "Our Objectives\n\n\n2nd Semester 2024\nIntroduce modeling concepts, ABMs, NetLogo, and the ODD Protocol (Part I)\n\n1st Semester 2025\nExplore the entire ODD Protocol, enabling participants to create and structure their own ABMs(Part II)\n\n\n\n\n2nd semester 2025\nLearn how to parameterize, calibrate, and analyze ABMs effectively (Parts III & IV)\n\n1st Semester 2026\n\n\n?\n\n\nEpstein, J. M., & Axtell, R. (1996). Growing artificial societies: Social science from the bottom up. The Brookings Institution.\nSmaldino, P. E. (2023). Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution. Princeton University Press.\n\n\nEpstein & Axtell (1996) Smaldino (2023)"
+  },
+  {
+    "objectID": "index.html#our-schedule",
+    "href": "index.html#our-schedule",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "Our Schedule",
+    "text": "Our Schedule\n\n\nFebruary 199 & 10 – Observation & Sensing\nMarch 12 11 – Adaptive Behavior and Objectives\nApril 1612 & 13 – Prediction & Interaction\nMay 2114 & 15 – Scheduling & Stochasticity\nJune 1816 – Collectives\n\n\n\nAugust 1318 – Patterns for Model Structure\nSeptember 1019 – Theory Development\nOctober 820 – Parameterization and Calibration\nNovember 1922 – Analyzing and Understanding ABMs\nDecember 1023 – Sensitivity, Uncertainty, and Robustness Analysis"
+  },
+  {
+    "objectID": "index.html#closing-remarks",
+    "href": "index.html#closing-remarks",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "Closing Remarks",
+    "text": "Closing Remarks\n \nThis presentation was created with the Quarto Publishing System. The code and materials are available on GitHub.\n\n\n\n\n\n(Artwork by Allison Horst)"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "References",
+    "text": "References\n\nIn accordance with the American Psychological Association (APA) Style, 7th edition.\n\n\n\nEpstein, J. M., & Axtell, R. (1996). Growing artificial societies: Social science from the bottom up. The Brookings Institution.\n\n\nRailsback, S. F., & Grimm, V. (2019). Agent-based and individual-based modeling: A practical introduction (2nd ed.). Princeton University Press.\n\n\nSmaldino, P. E. (2023). Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution. Princeton University Press."
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "ABM Study Group2025/1 Balance\n",
+    "section": "Thank you!",
+    "text": "Thank you!\n\n\n\n\n\n(Artwork by Allison Horst)"
+  }
+]
