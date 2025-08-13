@@ -79,24 +79,24 @@ showtext_auto()
 
 theme_set(
   theme_bw() +
-  theme(
-    text = element_text(
-      color = get_brand_color("black"),
-      family = "poppins",
-      face = "plain"
-    ),
-    panel.background = element_rect(fill = "transparent"),
-    plot.background = element_rect(
-      fill = "transparent", color = NA
-    ),
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    legend.background = element_rect(fill = "transparent"),
-    legend.box.background = element_rect(
-      fill = "transparent", color = NA
-    ),
-    legend.frame = element_blank()
-  )
+    theme(
+      text = element_text(
+        color = get_brand_color("black"),
+        family = "poppins",
+        face = "plain"
+      ),
+      panel.background = element_rect(fill = "transparent"),
+      plot.background = element_rect(
+        fill = "transparent", color = NA
+      ),
+      panel.grid.major = element_blank(),
+      panel.grid.minor = element_blank(),
+      legend.background = element_rect(fill = "transparent"),
+      legend.box.background = element_rect(
+        fill = "transparent", color = NA
+      ),
+      legend.frame = element_blank()
+    )
 )
 
 # Run `rbbt` -----

@@ -33,14 +33,14 @@ This will generate the slides in the `docs` directory.
 
 To cite this work, please use the following format:
 
-Vartanian, D. (2025). *ABM Study Group: 2025/1 Balance* \[Presentation\].
+Vartanian, D. (2025). *ABM Study Group: 2025/1 balance* \[Presentation\].
 <https://danielvartan.github.io/abm-study-group-pres-3>
 
 A BibTeX entry for LaTeX users is:
 
 ``` latex
 @Misc{vartanian2025,
-  title = {ABM Study Group: 2025/1 Balance},
+  title = {ABM Study Group: 2025/1 balance},
   author = {{Daniel Vartanian}},
   year = {2025},
   url = {https://danielvartan.github.io/abm-study-group-pres-3},

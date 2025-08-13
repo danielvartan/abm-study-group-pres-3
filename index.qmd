@@ -96,7 +96,7 @@ Presentations: **17**
 ::: {.column style="width: 5%;"}
 :::
 ::: {.column style="width: 47.5%;"}
-[![](images/railsback-2019-p-250.png){fig-align="center" style="width: 90%; border: 1px solid ;"}](https://www.railsback-grimm-abm-book.com/)
+[![](images/railsback-2019-p-250.png){fig-align="center" style="width: 90%; border: 1px solid;"}](https://www.railsback-grimm-abm-book.com/)
 :::
 ::::
 
